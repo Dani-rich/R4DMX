@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For R4DMX
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+R4DMX	KEYWORD1
+Color	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+loop	KEYWORD2
+setChannel	KEYWORD2
+setColor	KEYWORD2
+startFade	KEYWORD2
+startStrobeEffect	KEYWORD2
+stopStrobeEffect	KEYWORD2
+startChaseEffect	KEYWORD2
+stopChaseEffect	KEYWORD2
+startPulseEffect	KEYWORD2
+stopPulseEffect	KEYWORD2
+clearAllChannels	KEYWORD2
+locateFixture	KEYWORD2
+printAvailableCommands	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DMX_UNIVERSE_SIZE	LITERAL1
+REFRESH_RATE	LITERAL1
+FRAME_TIME	LITERAL1
