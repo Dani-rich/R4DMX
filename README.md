@@ -1,6 +1,6 @@
 # R4DMX Library
 
-R4DMX es una librería Arduino diseñada para controlar dispositivos DMX de manera sencilla y eficiente. Permite manejar múltiples fixtures y crear efectos de iluminación complejos con facilidad.
+R4DMX es el principio de una librería Arduino diseñada para controlar dispositivos DMX de manera sencilla y eficiente. Permite manejar múltiples fixtures y crear efectos de iluminación complejos con facilidad.
 
 ## Características
 
@@ -56,6 +56,7 @@ La librería R4DMX está configurada por defecto para usar los pines 2 (DIR), 1 
 
 Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los cambios propuestos antes de hacer un pull request.
+Cualquier sugerencia o ideas de mejores o nuevas implementaciones es más que bienvenida.
 
 Licencia
 Esta librería está licenciada bajo la Licencia MIT.
